@@ -35,4 +35,6 @@ here i will write few git commands which are helpful :-
 
 17. git log --pretty=format:
 
-18. git reset HEAD <filename> :: // to unstage a staged file.
+18. git reset HEAD <filename> :: // to unstage a staged file
+
+19. git checkout -- <filename> :: // this command undo the changes made to a unstaged file..but once the file is staged this command won't work
