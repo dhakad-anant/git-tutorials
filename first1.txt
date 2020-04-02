@@ -14,4 +14,6 @@ so lets finally check whether this commands works or not..
 
 
 
-----------changed -----------now=========  
+----------changed -----------now========= 
+
+--so we are going to commit this file and check whether == git checkout -f works or not --  
