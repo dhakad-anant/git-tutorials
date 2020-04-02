@@ -34,3 +34,5 @@ here i will write few git commands which are helpful :-
 16. git log --since=<number>.days : // this displays all commits made with recent specified number no. of days.
 
 17. git log --pretty=format:
+
+18. git reset HEAD <filename> :: // to unstage a staged file.
