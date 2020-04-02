@@ -38,3 +38,6 @@ here i will write few git commands which are helpful :-
 18. git reset HEAD <filename> :: // to unstage a staged file
 
 19. git checkout -- <filename> :: // this command undo the changes made to a unstaged file..but once the file is staged this command won't work
+
+20. git checkout -f :: // this command undo's all the changes made after your last commit and moves you back in the last commit position .
+this command also work if some file are staged even then it undo's everything and takes you to last commit.
