@@ -1,0 +1,4 @@
+ few helpful commands in linux terminal
+
+1. rm -rf <filename with extension> : // this command is used to delete files permantly in linux . Execute this command as in same folder in which the file is kept.
+ 

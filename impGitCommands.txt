@@ -1,0 +1,36 @@
+here i will write few git commands which are helpful :-
+
+1. git status : // this commands is used to get information about existing status of files which are to staged , files which are to committed .
+
+2. git log : // this command is used to all earlier commits . 
+
+3. git add <file> : // to stage a file
+
+4. git commit -m : // to commit all staged files.
+
+5. git diff : // it compares the working directory with the staging area.
+                 i.e. it show all the difference between staging area and workin                 directory
+
+6. git diff --staged : // it compares last commit from the staging area.
+
+7. git commit -a -m " " : // it directly commits all the tracked files skipping                             the staging after modifying tracked files. But it does not commit untracked files . Untracked files have to be manually first stagedand can then only be commited 
+
+8. git rm <file_name> : // this commands removes the specified file and also stage this change.
+
+9. git mv <file_name> <newfile_name.txt> : // this commands rename file.
+ 
+10. git rm --cached <file_name.ext> : // when we add staged files into gitignore.. and then make some changes in it...but git still track the changes made into that file...so basically we also have to untrack that staged file to make git completely ignore that file...
+
+11. git log -p : // this command displays all commit with all the diff.
+
+12. git log -p -<any number> : // this displays the number of commits.
+
+13. git log -stat : // this commands displays all commits with all short summary
+
+14. git log --pretty=oneline : // this commands displays all commits ..each with a single line.
+ 
+15.  git log --pretty=short : // this commands displays all commit
+
+16. git log --since=<number>.days : // this displays all commits made with recent specified number no. of days.
+
+17. git log --pretty=format:

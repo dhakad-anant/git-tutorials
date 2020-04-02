@@ -1,0 +1,17 @@
+this is a new file ..extending first.txt ....just to check what happens when a new file is added . 
+
+
+some changes introduced along with creating gitCommands files.
+
+
+so again made some changes...........chagned............again changed ............basically learing about git rm --cached <filename.ext>
+lets see what happens
+ 
+
+so lets finally check whether this commands works or not..
+
+
+
+
+
+----------changed -----------now=========  
