@@ -41,3 +41,8 @@ here i will write few git commands which are helpful :-
 
 20. git checkout -f :: // this command undo's all the changes made after your last commit and moves you back in the last commit position .
 this command also work if some file are staged even then it undo's everything and takes you to last commit.
+
+21. git config --global alias.<new_command> 'old command' :: // this command creates an alias name of your old command that is you can now use new_command name to run that same old command.
+
+22. git config --global alias.<new_command> 'old command --' :: // add two hypen at the end of your old command if your old command requires a file_name . Now while using this command with new_command name your file name will be automatically placed where the two end hypens are located.
+
