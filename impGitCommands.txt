@@ -46,5 +46,7 @@ this command also work if some file are staged even then it undo's everything an
 
 22. git config --global alias.<new_command> 'old command --' :: // add two hypen at the end of your old command if your old command requires a file_name . Now while using this command with new_command name your file name will be automatically placed where the two end hypens are located.
 
-23. git checkout -b <branch_name> :: // this command does two things - it will create a new branch if it does not exist.
-								     - it switches you to that branch
+23. git checkout -b <branch_name> :: // this command does two things - it will create a new branch 								     - it switches you to that branch
+
+24. git checkout branch_name :: // this command switch you in the mentioned branch.
+
